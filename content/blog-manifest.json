@@ -1229,17 +1229,17 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_0946682091.html",
   "date": "2026-01-21",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "creatine-safety",
+  "status": "done"
  },
  {
   "id": "6562876353262664180",
   "orig_title": "【2026年最新】サウナで筋肉はデカくなる。「熱ショックタンパク質（HSP）」が筋肥大と回復を加速させる科学的理由",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026hsp.html",
   "date": "2026-01-22",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "recovery-sleep",
+  "slug": "sauna-muscle",
+  "status": "done"
  },
  {
   "id": "1123305797581683071",
@@ -1255,9 +1255,9 @@
   "orig_title": "【2026年最新】「36時間断食」こそが最強の減量薬。オートファジーと成長ホルモンを最大化する「Monk Fast」の科学",
   "orig_url": "https://fudo39.blogspot.com/2026/01/202636monk-fast.html",
   "date": "2026-01-24",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "diet-fatloss",
+  "slug": "fasting-autophagy",
+  "status": "done"
  },
  {
   "id": "3266522245484163490",
@@ -1292,8 +1292,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/9_01982371482.html",
   "date": "2026-01-25",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "beginner-newbie-gains",
+  "status": "merged"
  },
  {
   "id": "5983957439033140457",
@@ -1301,8 +1301,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/vol1.html",
   "date": "2026-01-26",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "beginner-newbie-gains",
+  "status": "merged"
  },
  {
   "id": "6730785791641316035",
@@ -1310,8 +1310,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/vol2.html",
   "date": "2026-01-26",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "nutrition-basics",
+  "status": "done"
  },
  {
   "id": "2681639881529686126",
@@ -1319,8 +1319,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/vol3.html",
   "date": "2026-01-27",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "home-training-supplements",
+  "status": "merged"
  },
  {
   "id": "4702976245428945043",
@@ -1328,8 +1328,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/vol4.html",
   "date": "2026-01-28",
   "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "slug": "recovery-sleep-basics",
+  "status": "done"
  },
  {
   "id": "599448228942622182",
@@ -1337,26 +1337,26 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/vol5.html",
   "date": "2026-01-29",
   "category": "diet-fatloss",
-  "slug": null,
-  "status": "todo"
+  "slug": "cardio-vo2max-hypertrophy",
+  "status": "merged"
  },
  {
   "id": "8956601324324873258",
   "orig_title": "初心者向け完全講義 Vol.6「腹筋と体脂肪の真実」",
   "orig_url": "https://fudo39.blogspot.com/2026/01/vol6.html",
   "date": "2026-01-30",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "diet-fatloss",
+  "slug": "abs-body-fat",
+  "status": "done"
  },
  {
   "id": "7590762596644732767",
   "orig_title": "初心者向け完全講義 Vol.7「ウォームアップの科学」",
   "orig_url": "https://fudo39.blogspot.com/2026/01/vol7.html",
   "date": "2026-01-31",
-  "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "warmup-science",
+  "status": "done"
  },
  {
   "id": "3256830115437951228",
@@ -1364,8 +1364,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/vol8.html",
   "date": "2026-02-01",
   "category": "mindset-habit",
-  "slug": null,
-  "status": "todo"
+  "slug": "habit-formation",
+  "status": "merged"
  },
  {
   "id": "8759402742192649355",
