@@ -1075,9 +1075,9 @@
   "orig_title": "【2026年最新】減量中に「塩」を抜くのは自殺行為。パンプが消え、筋力が激減する科学的理由",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_35.html",
   "date": "2026-01-16",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "diet-fatloss",
+  "slug": "sodium-when-cutting",
+  "status": "done"
  },
  {
   "id": "8074621933348258031",
@@ -1112,17 +1112,17 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026inbody.html",
   "date": "2026-01-16",
   "category": "diet-fatloss",
-  "slug": null,
-  "status": "todo"
+  "slug": "body-fat-measurement",
+  "status": "done"
  },
  {
   "id": "2000902024621645675",
   "orig_title": "【2026年最新】「スクワットで全身デカくなる」は迷信。ホルモン仮説の死と、脚を鍛える本当の意義",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_92.html",
   "date": "2026-01-16",
-  "category": "hormone-health",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "hormone-hypothesis-squat",
+  "status": "done"
  },
  {
   "id": "7462652803043038903",
@@ -1147,18 +1147,18 @@
   "orig_title": "【2026年最新】「デッドリフト不要論」の正体。筋肥大において“コスパ最悪”の種目になりうる科学的理由と、代替種目の決定版",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_70.html",
   "date": "2026-01-18",
-  "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "deadlift-necessity",
+  "status": "done"
  },
  {
   "id": "2025739398188260400",
   "orig_title": "【減量期】プロテインは「増やす」が正解。筋肉を1gも減らさないための最適摂取量【計算ツール付】",
   "orig_url": "https://fudo39.blogspot.com/2026/01/1g.html",
   "date": "2026-01-18",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "diet-fatloss",
+  "slug": "protein-when-cutting",
+  "status": "done"
  },
  {
   "id": "7111028617235348760",
@@ -1174,9 +1174,9 @@
   "orig_title": "【2026年最新】「タバコ」は筋肉を溶かす猛毒。喫煙が筋肥大を強制終了させる科学的メカニズムと、ニコチンの呪い",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_20.html",
   "date": "2026-01-18",
-  "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "category": "hormone-health",
+  "slug": "smoking-muscle",
+  "status": "done"
  },
  {
   "id": "2075588634597565969",
@@ -1211,8 +1211,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_0523995699.html",
   "date": "2026-01-19",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "dips-upper-body",
+  "status": "done"
  },
  {
   "id": "4114423487284643816",
@@ -1220,8 +1220,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/20264hiit.html",
   "date": "2026-01-20",
   "category": "diet-fatloss",
-  "slug": null,
-  "status": "todo"
+  "slug": "hiit-tabata",
+  "status": "done"
  },
  {
   "id": "7142050843950783769",
