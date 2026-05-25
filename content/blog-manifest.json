@@ -1247,8 +1247,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026bfr.html",
   "date": "2026-01-23",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "bfr-training",
+  "status": "merged"
  },
  {
   "id": "8002890057372738682",
@@ -1265,8 +1265,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026100kg_24.html",
   "date": "2026-01-24",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "slingshot-overload",
+  "status": "done"
  },
  {
   "id": "8717438709557680017",
@@ -1274,8 +1274,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026llp.html",
   "date": "2026-01-24",
   "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "slug": "stretch-mediated-hypertrophy",
+  "status": "merged"
  },
  {
   "id": "4542446852004107251",
@@ -1373,8 +1373,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/02/lmlt.html",
   "date": "2026-02-17",
   "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "slug": "stretch-mediated-hypertrophy",
+  "status": "merged"
  },
  {
   "id": "4400707121297414886",
@@ -1382,17 +1382,17 @@
   "orig_url": "https://fudo39.blogspot.com/2026/02/regional-hypertrophy.html",
   "date": "2026-02-17",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "regional-hypertrophy",
+  "status": "done"
  },
  {
   "id": "8239015691686281548",
   "orig_title": "収縮は無駄。最新科学が証明した「伸長刺激（ストレッチ）」の圧倒的筋肥大効果",
   "orig_url": "https://fudo39.blogspot.com/2026/02/blog-post.html",
   "date": "2026-02-21",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "stretch-mediated-hypertrophy",
+  "status": "done"
  },
  {
   "id": "5064748640654430052",
@@ -1400,8 +1400,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/02/blog-post_21.html",
   "date": "2026-02-21",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "change-of-direction-power",
+  "status": "merged"
  },
  {
   "id": "2470662310195181311",
@@ -1435,9 +1435,9 @@
   "orig_title": "もしも、毎日ベンチプレスのMAXに挑戦すると？科学が暴く「大胸筋断裂」へのカウントダウン",
   "orig_url": "https://fudo39.blogspot.com/2026/02/max.html",
   "date": "2026-02-23",
-  "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "daily-max-attempt",
+  "status": "done"
  },
  {
   "id": "9089534709479027018",
@@ -1687,9 +1687,9 @@
   "orig_title": "デジタル依存という「静かなる脳死」：12時間、3日、10年であなたの人生に起きる決定的差",
   "orig_url": "https://fudo39.blogspot.com/2026/03/12310.html",
   "date": "2026-03-12",
-  "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "category": "mindset-habit",
+  "slug": "digital-detox",
+  "status": "done"
  },
  {
   "id": "6392147219797042810",
@@ -1742,8 +1742,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/03/2026_12.html",
   "date": "2026-03-12",
   "category": "hormone-health",
-  "slug": null,
-  "status": "todo"
+  "slug": "sex-differences-strength",
+  "status": "done"
  },
  {
   "id": "3651634901745931234",
@@ -1804,9 +1804,9 @@
   "orig_title": "【2026年最新】「鬱にならない」は脳のスペックか。メンタルコントロールを支配する実行機能とHPA軸の正体",
   "orig_url": "https://fudo39.blogspot.com/2026/03/2026hpa.html",
   "date": "2026-03-14",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "mindset-habit",
+  "slug": "exercise-mental-health",
+  "status": "done"
  },
  {
   "id": "462837157727769598",
