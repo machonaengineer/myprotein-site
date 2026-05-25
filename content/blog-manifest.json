@@ -1597,9 +1597,9 @@
   "orig_title": "【完全自動化】「脚トレ」という曖昧な概念を捨てろ。筋肉を支配する「膝主導と骨盤主導」の生体力学ジェネレーター",
   "orig_url": "https://fudo39.blogspot.com/2026/03/blog-post_7.html",
   "date": "2026-03-07",
-  "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "squat-knee-hip-dominant",
+  "status": "done"
  },
  {
   "id": "5698928859123368481",
@@ -1625,8 +1625,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/03/blog-post_40.html",
   "date": "2026-03-07",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "protein-water-vs-milk",
+  "status": "done"
  },
  {
   "id": "1209879373625381300",
@@ -1669,18 +1669,18 @@
   "orig_title": "【2026年最新】「有酸素はカタボる」は嘘。筋肥大の限界を突破するVO2 maxの黄金律",
   "orig_url": "https://fudo39.blogspot.com/2026/03/2026vo2-max.html",
   "date": "2026-03-08",
-  "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "cardio-vo2max-hypertrophy",
+  "status": "done"
  },
  {
   "id": "1236379169411959965",
   "orig_title": "トレーニングボリュームの正体は「直近168時間」。カレンダーを捨て、科学的に計算せよ",
   "orig_url": "https://fudo39.blogspot.com/2026/03/168.html",
   "date": "2026-03-11",
-  "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "weekly-volume-rolling",
+  "status": "done"
  },
  {
   "id": "7355968578753970464",
@@ -1714,9 +1714,9 @@
   "orig_title": "【保存版】筋トレの「やる気」が出ない正体は脳の疲労。ドパミンを科学的にハックする攻略法",
   "orig_url": "https://fudo39.blogspot.com/2026/03/blog-post_87.html",
   "date": "2026-03-12",
-  "category": "diet-fatloss",
-  "slug": null,
-  "status": "todo"
+  "category": "mindset-habit",
+  "slug": "motivation-dopamine",
+  "status": "done"
  },
  {
   "id": "2600085950369409009",
@@ -1751,8 +1751,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/03/2026rfd.html",
   "date": "2026-03-12",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "change-of-direction-power",
+  "status": "merged"
  },
  {
   "id": "3286642450503205107",
@@ -1814,8 +1814,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/03/2026_17.html",
   "date": "2026-03-17",
   "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "slug": "muscle-fiber-myostatin",
+  "status": "merged"
  },
  {
   "id": "7587380686790613370",
@@ -1858,9 +1858,9 @@
   "orig_title": "【2026年最新】人類のリミッター「マイオスタチン」を破壊せよ。遺伝子の呪縛を解き放つ筋肉増殖の科学",
   "orig_url": "https://fudo39.blogspot.com/2026/03/2026_95.html",
   "date": "2026-03-19",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "muscle-fiber-myostatin",
+  "status": "done"
  },
  {
   "id": "4242530876958071000",
@@ -1912,9 +1912,9 @@
   "orig_title": "【2026年最新】筋肉の老化を逆転させる「エピジェネティック・リセット」。同化抵抗性を粉砕し、20代の反応を取り戻す科学",
   "orig_url": "https://fudo39.blogspot.com/2026/03/202620.html",
   "date": "2026-03-21",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "hormone-health",
+  "slug": "muscle-aging-memory",
+  "status": "done"
  },
  {
   "id": "6460369615706309223",
