@@ -167,8 +167,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/blog-post_33.html",
   "date": "2026-01-02",
   "category": "hormone-health",
-  "slug": null,
-  "status": "todo"
+  "slug": "steroid-risks",
+  "status": "merged"
  },
  {
   "id": "5519827189749970782",
@@ -500,8 +500,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/3long-nguyen4max.html",
   "date": "2026-01-04",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "smolov-jr",
+  "status": "merged"
  },
  {
   "id": "5833375708754815066",
@@ -599,8 +599,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026vs_6.html",
   "date": "2026-01-06",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "nutrition-basics",
+  "status": "merged"
  },
  {
   "id": "7521360453630764388",
@@ -645,7 +645,7 @@
   "date": "2026-01-06",
   "category": "nutrition-supplement",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "625789517879873072",
@@ -860,8 +860,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/100kg.html",
   "date": "2026-01-09",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "barbell-loading-physics",
+  "status": "done"
  },
  {
   "id": "3029228300383015192",
@@ -1022,8 +1022,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_66.html",
   "date": "2026-01-13",
   "category": "recovery-sleep",
-  "slug": null,
-  "status": "todo"
+  "slug": "recovery-sleep-basics",
+  "status": "merged"
  },
  {
   "id": "6870515720112165546",
@@ -1040,8 +1040,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026pfc-325.html",
   "date": "2026-01-13",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "nutrition-basics",
+  "status": "merged"
  },
  {
   "id": "5497433832223966564",
@@ -1284,7 +1284,7 @@
   "date": "2026-01-24",
   "category": "nutrition-supplement",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "2174160395890886753",
@@ -1419,7 +1419,7 @@
   "date": "2026-02-23",
   "category": "recovery-sleep",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "3290122728652914218",
@@ -1428,7 +1428,7 @@
   "date": "2026-02-23",
   "category": "nutrition-supplement",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "7606739042109374408",
@@ -1563,16 +1563,16 @@
   "date": "2026-03-04",
   "category": "nutrition-supplement",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "8445106120221584704",
   "orig_title": "【2026年最新】風邪薬は筋肉を殺す猛毒だ。免疫をバグらせる「解熱剤の嘘」と、最速で風邪を治す科学的プロトコル",
   "orig_url": "https://fudo39.blogspot.com/2026/03/2026_6.html",
   "date": "2026-03-06",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "recovery-sleep",
+  "slug": "training-when-sick",
+  "status": "done"
  },
  {
   "id": "5929279587725430716",
@@ -1608,7 +1608,7 @@
   "date": "2026-03-07",
   "category": "training-method",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "3287562787480189223",
@@ -1644,7 +1644,7 @@
   "date": "2026-03-07",
   "category": "nutrition-supplement",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "1375086311556740809",
@@ -1779,7 +1779,7 @@
   "date": "2026-03-14",
   "category": "training-method",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "7742716741429700537",
@@ -1905,7 +1905,7 @@
   "date": "2026-03-21",
   "category": "diet-fatloss",
   "slug": null,
-  "status": "todo"
+  "status": "skipped"
  },
  {
   "id": "2139416396901261093",
