@@ -294,7 +294,7 @@ def write_sitemap(arts):
         "myprotein-review.html", "myprotein-aji.html", "myprotein-shoshinsha.html",
         "impact-whey.html", "myprotein-creatine.html", "eaa-bcaa.html",
         "myprotein-clear-whey.html", "myprotein-diet.html", "myprotein-sale.html",
-        "profile.html", "privacy.html", "contact.html",
+        "profile.html", "privacy.html", "contact.html", "protein-faq.html",
     ]
     urls = [BASE + p for p in static_pages]
     urls.append(BASE + "blog/")
