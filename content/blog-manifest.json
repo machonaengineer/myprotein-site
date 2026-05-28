@@ -266,8 +266,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/blog-post_10.html",
   "date": "2026-01-02",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "beginner-newbie-gains",
+  "status": "merged"
  },
  {
   "id": "6159425096491258189",
@@ -283,18 +283,18 @@
   "orig_title": "【2026年最新】男の最強ホルモン「テストステロン」を科学的にドバドバ出す方法。筋トレ・食事・サプリの正解",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_94.html",
   "date": "2026-01-02",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "hormone-health",
+  "slug": "testosterone-naturally",
+  "status": "done"
  },
  {
   "id": "215092569025408985",
   "orig_title": "【2026年最新】服を着ると細いが、脱ぐとダルダル。「隠れ肥満（スキニーファット）」を卒業し、メリハリボディを作る唯一の手順",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_77.html",
   "date": "2026-01-02",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "diet-fatloss",
+  "slug": "skinny-fat",
+  "status": "done"
  },
  {
   "id": "7581287172568173963",
@@ -302,8 +302,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026130g100g.html",
   "date": "2026-01-02",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "protein-30g-myth",
+  "status": "done"
  },
  {
   "id": "4143944248097824135",
@@ -311,17 +311,17 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_90.html",
   "date": "2026-01-02",
   "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "slug": "carbs-at-night",
+  "status": "done"
  },
  {
   "id": "2193866828046097306",
   "orig_title": "【2026年最新】筋トレ後のビールは「筋肉溶解液」だ。アルコールが筋肥大を止める3つの科学的理由と、飲み会の生存戦略",
   "orig_url": "https://fudo39.blogspot.com/2026/01/blog-post_88.html",
   "date": "2026-01-02",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "recovery-sleep",
+  "slug": "alcohol-muscle",
+  "status": "done"
  },
  {
   "id": "3586215347875943291",
@@ -329,8 +329,8 @@
   "orig_url": "https://fudo39.blogspot.com/2026/01/202613.html",
   "date": "2026-01-02",
   "category": "training-method",
-  "slug": null,
-  "status": "todo"
+  "slug": "rest-intervals",
+  "status": "done"
  },
  {
   "id": "5614663092692472742",
@@ -364,9 +364,9 @@
   "orig_title": "【2026年最新】「フルスクワットは膝に悪い」は完全なデマ。浅いスクワットこそが膝を破壊する力学的理由",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026_57.html",
   "date": "2026-01-02",
-  "category": "hormone-health",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "full-squat-knees",
+  "status": "done"
  },
  {
   "id": "365891036048284428",
@@ -391,9 +391,9 @@
   "orig_title": "【2026年最新】「朝トレ」vs「夜トレ」。筋肉が一番つく時間はどっちだ？科学が出したファイナルアンサーと、朝の弱点を消す方法",
   "orig_url": "https://fudo39.blogspot.com/2026/01/2026vs.html",
   "date": "2026-01-02",
-  "category": "nutrition-supplement",
-  "slug": null,
-  "status": "todo"
+  "category": "training-method",
+  "slug": "morning-vs-evening-training",
+  "status": "done"
  },
  {
   "id": "542645774979074739",
