@@ -1,0 +1,13 @@
+# Google AdSense ads.txt テンプレート
+#
+# 使い方:
+# 1) AdSense 管理画面 → 「アカウント」 → 「設定」 → 「アカウント情報」で
+#    Publisher ID を確認（例: pub-1234567890123456）
+# 2) 下記の YOUR_PUBLISHER_ID を実際の数字に置き換える
+# 3) このファイルを ads.txt にリネームしてリポジトリ直下に配置
+# 4) コミット＆プッシュ → サイトルートで https://machonaengineer.github.io/myprotein-site/ads.txt
+#    がアクセスできることを確認
+#
+# AdSense 公式仕様: https://support.google.com/adsense/answer/7532444
+
+google.com, pub-YOUR_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
