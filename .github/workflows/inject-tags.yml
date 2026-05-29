@@ -12,15 +12,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run inject_head.py
-        run: |
-          python3 inject_head.py \\
-            --adsense "ca-pub-4885773333602866" \\
-            --ga4 "G-33BR48VBN0" \\
-            --search-console "d_Cj5_l8du2uBAA-zlhdCL2PnkFhwT8CJxTFDs0radM"
+        run: python3 inject_head.py --adsense "ca-pub-4885773333602866" --ga4 "G-33BR48VBN0" --search-console "d_Cj5_l8du2uBAA-zlhdCL2PnkFhwT8CJxTFDs0radM"
 
       - name: Create ads.txt
-        run: |
-          echo "google.com, pub-4885773333602866, DIRECT, f08c47fec0942fa0" > ads.txt
+        run: echo "google.com, pub-4885773333602866, DIRECT, f08c47fec0942fa0" > ads.txt
 
       - name: Commit and push
         run: |
