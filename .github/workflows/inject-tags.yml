@@ -1,0 +1,31 @@
+name: Inject AdSense/GA4/SearchConsole tags
+
+on:
+  workflow_dispatch:
+
+  jobs:
+    inject:
+        runs-on: ubuntu-latest
+            permissions:
+                  contents: write
+                      steps:
+                            - uses: actions/checkout@v4
+
+                                  - name: Run inject_head.py
+                                          run: |
+                                                    python3 inject_head.py \
+                                                                --adsense "ca-pub-4885773333602866" \
+                                                                            --ga4 "G-33BR48VBN0" \
+                                                                                        --search-console "d_Cj5_l8du2uBAA-zlhdCL2PnkFhwT8CJxTFDs0radM"
+
+                                                                                              - name: Create ads.txt
+                                                                                                      run: |
+                                                                                                                echo "google.com, pub-4885773333602866, DIRECT, f08c47fec0942fa0" > ads.txt
+                                                                                                                
+                                                                                                                      - name: Commit and push
+                                                                                                                              run: |
+                                                                                                                                        git config user.name "github-actions[bot]"
+                                                                                                                                                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                                                                                                                                                            git add -A
+                                                                                                                                                                      git diff --staged --quiet || git commit -m "AdSense/GA4/Search Consoleの検証タグを挿入し、ads.txtを生成"
+                                                                                                                                                                                git push
