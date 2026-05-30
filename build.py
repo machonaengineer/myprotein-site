@@ -172,7 +172,7 @@ def footer(prefix):
 </div></div>
 </div></footer>'''
 
-AUTHOR_BOX = '''<div class="author-box"><div class="ava">🏋️</div><div><b>運営者について</b><p>週2〜4回の筋力トレーニングを継続。ベンチプレス122.5kg・スクワット175kg・デッドリフト200kgを記録し、現在はカバディ競技にも取り組んでいます。本記事は公開されている研究・論文と自身の経験をもとに構成しています。効果には個人差があり、サプリメントは薬ではありません。<a href="{prefix}profile.html">運営者情報の詳細 →</a></p></div></div>'''
+AUTHOR_BOX = '''<div class="author-box"><div class="ava">🏋️</div><div><b>運営者について</b><p>週2〜3回の筋力トレーニングを数年継続している個人です。本記事は公開されている研究・論文と自身の経験をもとに構成しています。効果には個人差があり、サプリメントは薬ではありません。<a href="{prefix}profile.html">運営者情報の詳細 →</a></p></div></div>'''
 
 def page_shell(title, desc, canonical, prefix, body, head_extra=""):
     return f'''<!doctype html><html lang="ja"><head><meta charset="utf-8">
