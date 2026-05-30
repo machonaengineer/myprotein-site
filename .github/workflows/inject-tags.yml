@@ -2,6 +2,19 @@ name: Inject AdSense/GA4/SearchConsole tags
 
 on:
   workflow_dispatch:
+    inputs:
+      adsense:
+        description: 'AdSense client ID (例: ca-pub-XXXXXXXXXXXXXXXX)'
+        required: true
+        type: string
+      ga4:
+        description: 'GA4 測定ID (例: G-XXXXXXX)'
+        required: true
+        type: string
+      search_console:
+        description: 'Search Console verification token (meta タグ content の値)'
+        required: true
+        type: string
 
 jobs:
   inject:
@@ -11,16 +24,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run inject_head.py
-        run: python3 inject_head.py --adsense "ca-pub-4885773333602866" --ga4 "G-33BR48VBN0" --search-console "d_Cj5_l8du2uBAA-zlhdCL2PnkFhwT8CJxTFDs0radM"
+      - name: Run inject_head.py with provided IDs
+        run: |
+          python3 inject_head.py \
+            --adsense "${{ inputs.adsense }}" \
+            --ga4 "${{ inputs.ga4 }}" \
+            --search-console "${{ inputs.search_console }}"
 
-      - name: Create ads.txt
-        run: echo "google.com, pub-4885773333602866, DIRECT, f08c47fec0942fa0" > ads.txt
+      - name: Update ads.txt with new Publisher ID
+        run: |
+          PUB_ID=$(echo "${{ inputs.adsense }}" | sed 's/^ca-//')
+          echo "google.com, ${PUB_ID}, DIRECT, f08c47fec0942fa0" > ads.txt
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "AdSense/GA4/Search Consoleの検証タグを挿入し、ads.txtを生成"
+          git diff --staged --quiet || git commit -m "AdSense/GA4/SearchConsoleタグを更新 (adsense=${{ inputs.adsense }})"
           git push
